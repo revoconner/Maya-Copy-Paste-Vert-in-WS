@@ -1,6 +1,7 @@
 # Copy and Paste vertex of a mesh in world space
-### These two script will help you copy and paste vertex position of one mesh to another so as to move them locally or in World Space
- 
+### The script will help you copy and paste vertex position of one mesh to another so as to move them locally or in World Space
+ ![image](https://user-images.githubusercontent.com/88772846/209808443-f42c30a0-e1e8-404c-93b2-28e28b5501dc.png)
+
 This acts like a blendshape set to 1 but without any connector nodes in between and you are free to delete history.
 Just select the mesh you want to copy from and use the copy vert script, then select the mesh you want to paste the position of the vertex on and use paste vert script.
 
